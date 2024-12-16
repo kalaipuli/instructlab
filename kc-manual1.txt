@@ -1,0 +1,281 @@
+Konecranes Global Supplier Manual
+Procurement ver. March 2021 English
+PUBLIC
+P.O. BOX 661 (Koneenkatu 8) FIN-05801 Hyvinkää Tel +358- (0)20 427 11 Fax +358 - (0)20 427 2099 Business ID 0942718-2
+VAT Reg No. FI09427182 Domicilie Hyvinkää www.konecranes.com
+1/16
+Table of Contents 1 General .............................................................................................................................................. 3
+1.1
+Purpose ..................................................................................................................................... 3
+1.2
+Structure of the Manual .............................................................................................................. 3
+1.3
+Konecranes as a Reference ......................................................................................................... 3
+1.4
+Konecranes Assistance to the Suppliers ........................................................................................ 3
+1.5
+Document Revision ..................................................................................................................... 3
+1.6
+Approval and Maintenance .......................................................................................................... 3
+2
+Abbreviations and Definitions .............................................................................................................. 4
+3
+Konecranes Supplier base management ............................................................................................... 5
+3.1
+New Supplier Onboarding ............................................................................................................ 5
+3.2
+Supplier Relationship Management .............................................................................................. 5
+3.3
+Supplier Qualification .................................................................................................................. 7
+3.4
+Product Qualification ................................................................................................................... 8
+4 General Supplier Requirements ............................................................................................................ 9
+4.1
+Sustainability – Supplier Code of Conduct ..................................................................................... 9
+4.2
+HSEQ Management Systems ........................................................................................................ 9
+4.3
+Information Security ................................................................................................................. 10
+4.4
+Risk Management ..................................................................................................................... 10
+4.5
+Process Quality Control ............................................................................................................. 10
+4.6
+Nonconformance Management .................................................................................................. 11
+4.7
+Engineering Change Requests (ECR) .......................................................................................... 12
+4.8
+Change Management by the Supplier ......................................................................................... 12
+4.9
+Material Traceability .................................................................................................................. 12
+4.10
+Control of Records and Documentation ...................................................................................... 12
+4.11 General Performance Targets .................................................................................................... 13
+Appendices ............................................................................................................................................. 14
+Appendix 1: Supplier Code of Conduct ................................................................................................... 14
+PUBLIC
+Konecranes Global Supplier Manual R002
+2/16
+1 GENERAL
+1.1 Purpose
+This manual sets out the minimum requirements for all Suppliers and subcontractors of Konecranes, including those providing production materials, components, spare parts, heat treatment, painting, or other services to Konecranes (here collectively referred to as “Suppliers”).
+The requirements of this manual and its appendices are additional to any requirements indicated in Konecranes Purchase Orders, engineering drawings, specification requirements, and other Konecranes Supplier requirements. They do not discharge the Supplier from liability for ensuring that all products or services supplied to Konecranes satisfy all of the requirements specified by Konecranes. Depending on location, Konecranes also may issue country or local supplements to this manual.
+1.2 Structure of the Manual
+This manual has two main sections. The first section: “Konecranes Supplier Base Management” briefly outlines how Suppliers are onboarded, managed, and assessed during their business relationship with Konecranes, and the latter section: “General Supplier Requirements” sets out the standard general requirements for Konecranes Suppliers and gives further details concerning the requirements that govern various types of Supplier.
+1.3 Konecranes as a Reference
+Konecranes, or any part of the company (such as Demag), can consider giving a reference to an external party if the collaboration has been satisfied, and the external party’s operations are on schedule and in line with what has been agreed. If the reference request meets the Konecranes reference criteria and the request is approved, a Frame Referral Agreement is signed for a specific scope and time. Before publicly using Konecranes as a reference in any Supplier material, the materials first need to be approved by Konecranes.
+1.4 Konecranes Assistance to the Suppliers
+To support the Supplier in putting necessary and required practices and safeguards in place, Konecranes may provide guidance to the Supplier on how to comply with these requirements. Konecranes can also provide instructions and trainings for the Supplier’s personnel, considering the Supplier’s role and risk, where Konecranes sees it necessary. In addition, Konecranes will also provide the necessary contact points for the Supplier to inform and consult Konecranes on any suspected breaches or shortcomings, risks, and possible non-compliance issues.
+1.5 Document Revision
+This manual must be reviewed:
+During the first year after its introduction, and then at least once every two years • If required, in case of changes in technological or compliance environment or as a result of corrective actions to eliminate any weaknesses or non-conformities.
+1.6 Approval and Maintenance
+This manual is approved by the Procurement Leadership Team. The Supplier Development & Quality Manager is the owner of Konecranes Global Supplier Manual and responsible for maintaining this manual and monitoring its implementation.
+PUBLIC
+Konecranes Global Supplier Manual R002
+3/16
+2 ABBREVIATIONS AND DEFINITIONS
+5 times why (5 x why):
+A method of problem solving that explores the root cause of a problem by asking five ‘why’ questions.
+8D report:
+A structured method of problem solving based on 8 disciplines, focusing on determining remedial measures through root cause analysis.
+Direct Supplier:
+A company supplying the raw materials, parts, components, software and products that are used in Konecranes production, or in the company’s end products and services.
+Engineering Change Request (ECR):
+A request to modify product or material specifications, manufacturing methods or processes.
+HSEQ:
+A common nomenclature for matters of Health, Safety, Environment and Quality.
+Indirect Supplier:
+A company supplying services, solutions or parts for Konecranes in support of the company’s business or manufacturing operations.
+Supplier Code of Conduct (SCoC):
+Minimum required standards of conduct for Konecranes Suppliers, sub-Suppliers, subcontractors and their affiliates.
+Statistical Process Control (SPC):
+A process monitoring and control method ensuring effective creation of products that comply with specifications.
+Supplier:
+A Supplier or subcontractor that supplies materials, products or services to Konecranes.
+Supplier Deviation Request (SDR):
+A request from a Supplier to deliver materials or products that deviates from product speciation or requirements.
+Supplier Manager (SM):
+A Supplier’s key contact person for Konecranes, serving as the counterpart to a Key Account Manager or other individual at the company.
+PUBLIC
+Konecranes Global Supplier Manual R002
+4/16
+3 KONECRANES SUPPLIER BASE MANAGEMENT
+Supplier Base Management covers key activities that arise during a Supplier’s business relationship with Konecranes, and is strongly linked to the company’s global product, service and delivery processes. Co-operation with a Supplier may begin with early involvement in common product or solution R&D projects, continuing through repeated deliveries of spare parts for Konecranes operations.
+Konecranes Supplier Base Management covers the following main areas: New Supplier Onboarding, Supplier Relationship Management, Supplier Qualification and Product Qualification.
+3.1 New Supplier Onboarding
+A new Konecranes Supplier will be a company that has not conducted business with Konecranes over the preceding 3 years. All new Suppliers must be qualified before commencing any business with Konecranes. This qualification requires Suppliers and subcontractors to satisfy the following main characteristics:
+Compliance with the Konecranes Supplier Code of Conduct
+
+Financially sound and cost-effective operations
+Compliance with performance requirements and expectations related to Quality, Information security, Availability and Delivery times.
+Figure 1 shows the principal stages of the onboarding process. The main characteristics will be verified as the process advances, leading to an outcome in which the Supplier is either approved or disqualified. Suppliers manufacturing components, parts or materials for Konecranes (i.e., Direct Suppliers) may also need to complete a process of product qualification before a full production run may begin.
+Konecranes seeks long-term partnerships with Suppliers that satisfy the qualification criteria while remaining cost-conscious and continuously striving for operational excellence.
+Figure 1. Key steps of Supplier Onboarding Process.
+3.2 Supplier Relationship Management
+3.2.1 Business Relationship
+The business relationship is based on mutual respect for written agreements and the specified requirements of individual orders. The business relationship and performance must also be appraised, maintained and continually improved. This relationship may evolve in some cases towards strategic co-operation and joint planning of future business areas.
+Konecranes will categorize and segment onboarded Suppliers internally. Based on the segmentation level, Konecranes may nominate a Supplier Manager to assume overall business responsibility for the Supplier. Other professionals from various Konecranes departments may also support the Supplier Manager to ensure critical
+PUBLIC
+Konecranes Global Supplier Manual R002
+5/16
+operating links between the companies (e.g., from R&D, Production and Quality). Konecranes will ask Suppliers at a high segmentation level to appoint an Account Manager and other counterparts for its contact persons.
+Supplier segmentation determines the basic rules of overall relationship management and such aspects as the frequency of periodical business review meetings between the companies. Forecasting and the frequency of demand updates will be agreed separately with each Supplier to serve the needs of both companies.
+Figure 2 shows the main stages in the relationship management process between Konecranes and a Supplier. This process follows on from the new Supplier onboarding process shown in figure 1.
+Figure 2. Key steps of Supplier Relationship Management process
+3.2.2 Materials Management
+Most of the direct business purchasing made by Konecranes comes from shop floor operations, manufacturing units and distribution centers. Purchasing can be performed either centralized by operations or by individual purchases. Direct purchasing relates to unit stocks or to a Konecranes customer sales order, with some inventories also managed by Suppliers. Indirect purchasing is widespread in the Konecranes Group, tending to be more common also in various non-manufacturing units, such as services, IT and head office functions. All purchases are submitted to Suppliers in a written and documented form (the “Purchase Order”), and according to defined processes.
+Supplier contracts and purchasing agreements relate to all Konecranes units and sites, and to designated subcontractors in specified cases. Uniform pricing and other terms and conditions apply globally to Konecranes units, regardless of the delivery mode, operation, or purchasing organization concerned.
+Suppliers are expected to be capable of using Konecranes e-procurement tools in support of business operations (i.e., Material Management) between companies. The Konecranes Supplier Manager will coordinate these requirements more closely at the start of the business relationship.
+3.2.3 Ongoing Performance Evaluation Konecranes strives for continuous improvement of overall business performance with respect to both internal and external resources. Suppliers are expected to satisfy expectations for cost, quality and delivery times throughout the business relationship. Konecranes monitors performance using key and process performance indicators to ensure that a Supplier continuously satisfies these expectations. Indicators and overall performance also affect the segmentation level of a Supplier.
+3.2.3.1 Availability and Punctuality
+Konecranes expects all purchases to arrive in the correct quantity and at the right time as specified, with a view to receiving deliveries at its sites punctually and when specified as needed (i.e., on the requested delivery date). The assessment of availability will respect agreements made with the Supplier concerning delivery times.
+The punctuality of a delivery compares the agreed and confirmed delivery date of the Purchase Order with the date of receiving the goods at a Konecranes site. Deliveries that are timely but otherwise non-compliant (e.g., faulty products) are not deemed punctual deliveries.
+Deliveries that arrive too early or too late are standardly prohibited, and may accordingly result in claims or further demands from Konecranes.
+PUBLIC
+Konecranes Global Supplier Manual R002
+6/16
+3.2.3.2 Lead-time
+Konecranes continuously focuses on improving delivery and throughput times for its products and services in order to keep pace with the requirements of a global market. This constraint sets the performance targets for the entire Konecranes supply chain, and especially for the company’s Supplier base. This focus on cutting lead- time almost automatically reduces non value-adding work in operations, helping the company to focus ongoing improvement efforts on the right operating aspects.
+Targeted lead-times are set separately for each Supplier, based on product category and the needs of Konecranes operations, and with due regard to the capacity of Suppliers.
+Lead-time is the period between the receipt of an order by a Supplier (date / time) and receipt of the goods by Konecranes (date / time).
+3.2.1.1 Quality
+Suppliers are expected to satisfy the assigned quality requirements and product specifications in each delivery sent to Konecranes, which will submit a formal claim to the Supplier if some requirement or specification is not satisfied. Konecranes expects Suppliers to respond to each claim promptly, and as requested in any such claim.
+3.2.1.2 Information Security
+Suppliers are expected to satisfy all Konecranes information security requirements protecting Konecranes information assets. Suppliers are expected to report any shortcomings to Konecranes without a delay.
+3.2.1.3 Costs
+Konecranes continually reduces unnecessary operating costs and expects its Suppliers to do likewise. Each Supplier is encouraged to focus on cutting operating costs and optimizing the cost structure of products and services. Konecranes seeks transparency in cost structures with Suppliers, with a view to further enhancing co- operation and end-to-end performance.
+3.2.1.4 Supplier Development Program
+Suppliers will be evaluated and ranked using Supplier process performance data and indicators, with rankings monitored periodically by the company’s procurement function. The most severely underperforming Suppliers may be subject to a higher frequency of periodical business review meetings and performance-monitoring measures. These reviews seek a common understanding of possible issues, and focus on agreeing on remedial measures.
+If underperformance continues or becomes more critical, then Konecranes will launch a joint development project with the Supplier seeking expedited process improvement for specified problems. The need for a development project may also be triggered by conflicts of communication and co-operation, or by critical business escalations from Konecranes sites. A Supplier may be disqualified, or even phased out, if the common interest or business case for a development project is inadequate, or if underperformance continues.
+3.3 Supplier Qualification
+The Supplier qualification process exists to ensure that Suppliers satisfy the minimum requirements of Konecranes, and to gain an overview of Supplier operations and capacities. Supplier qualification involves three main sub-processes: Background checking, On-site auditing and Supplier Code of Conduct auditing. These sub- processes operate at the Supplier onboarding stage, and either wholly or in certain respects during an ongoing business relationship. All Suppliers may be subject to background checks and audits, even when frequent business review meetings are held, and business is conducted with Konecranes on a daily basis.
+A new Supplier that fails any part of the qualification process will not be approved as a Konecranes Supplier. An established Supplier that fails the qualification process may be disqualified or phased out.
+PUBLIC
+Konecranes Global Supplier Manual R002
+7/16
+3.3.1 Background Checking Background checking verifies that a Supplier is complying with applicable laws and regulations and has the insurance coverage required by Konecranes. Background checks also provide general information on a Supplier’s operations. Background checking is part of new Supplier onboarding and may be requested from existing Suppliers at any time during the business relationship.
+3.3.2 Auditing On-site audits review and validate the management systems, quality assurance methods and process capacities of a Supplier. The audit will evaluate a Supplier against predefined Konecranes requirements, with remedial measures required if the Supplier fails to satisfy the requirements. The Supplier will be advised in writing of the audit outcome, audit score and required measures.
+On-site audits may be arranged during new Supplier onboarding and for established Suppliers. New Suppliers will be selected for auditing based on the findings of Supplier background checking, country, industry, other relevant risks, and other factors that are critical for Konecranes.
+Established Suppliers are audited in accordance with the Konecranes annual auditing program. Factors commonly influencing a perceived need for periodic on-site auditing include Supplier underperformance, risk profiles and business opportunities.
+Konecranes is entitled to conduct on-site auditing of a Supplier whenever this is deemed necessary. A team selected from various functions and led by the Konecranes Lead Auditor will conduct an on-site audit.
+In addition to onsite auditing, Konecranes may choose to perform IT-system security assessments, application security assessments, penetration testing or a vulnerability analysis on any services or product that the Supplier provides to Konecranes. Assessment target selections are made based on service type and current risk level. Konecranes is entitled to conduct security assessments of Supplier services whenever this is deemed necessary.
+Before accepting an IT-service, IT-hardware or software Supplier, Konecranes may require that the Supplier, according to its role and the risk, provide a third-party verification report, such as ISAE3000, ISAE3402 or SOC1, SOC2 or SOC3. Konecranes may also consider requiring such a verification report from Suppliers from other categories, where their role, risk level and annual spend require so.
+3.3.3 Supplier Code of Conduct Auditing Konecranes will conduct Supplier Code of Conduct audits for selected Supplier groups based on the identified country, industry and Supplier-specific risks. A Konecranes audit examines whether a Supplier is complying with the Supplier Code of Conduct and applicable laws and regulations.
+Konecranes is entitled to conduct the audit either with or without the support of an external auditor.
+See Chapter 4.1: “Sustainability – Supplier Code of Conduct”.
+3.4 Product Qualification
+The Konecranes product qualification process governs Suppliers delivering materials, software or parts, or a combination of those for Konecranes (i.e., direct Suppliers). Product qualification is part of the Supplier onboarding process and is also employed in certain cases during the business relationship to assess whether Konecranes specifications are satisfied and the production process has the necessary capacity for consistent product output that complies with all requirements during a full production run.
+Product approval can be required in the event of:
+a new Supplier
+a new product
+
+changes of product specification
+PUBLIC
+Konecranes Global Supplier Manual R002
+8/16
+
+changes of product version, e.g., software/firmware revision
+
+changes of production process or plant
+
+changes of production location
+Initial product samples and batches will be measured and tested in the foregoing cases against specified requirements and approved by the Supplier and by Konecranes before proceeding with any further deliveries to Konecranes. After Konecranes has approved the tests or samples, the materials or parts must be deemed production-ready and serial production may begin. The approved product and manufacturing process of a Supplier must be deemed frozen, and all further modifications to the process must be communicated to Konecranes for separate approval. See section 4.7: “Change management by the Supplier”.
+The Konecranes Supplier Manager or contact person will coordinate the process and advise the Supplier of applicable requirements.
+4 GENERAL SUPPLIER REQUIREMENTS
+This section sets out the general requirements for Konecranes Suppliers. Sections 4.4-4.9 govern direct Suppliers proving materials and parts, and also indirect Suppliers where applicable.
+4.1 Sustainability – Supplier Code of Conduct
+Responsible business practices are essential for ensuring long-term competitiveness and profitability. The management culture of Konecranes reflects our corporate values: trust in people, total service commitment and sustained profitability. Management practices are also based on the general principles of consistent development, emphasizing the integration of economic, social and environmental goals in Konecranes business operations. Konecranes strives for the highest ethical conduct, and the principles outlined in the Konecranes Code of Conduct exemplify the highest legal and ethical standards that we resolve to maintain towards our customers, business partners, Suppliers and staff, and towards society and financial markets in all of the countries where we operate.
+Konecranes expects its Suppliers to comply with the same legal, ethical, environmental, and employee-related principles that Konecranes applies internally. Konecranes introduced the “Konecranes Supplier Code of Conduct” in 2018 to set minimum standards of conduct for its Suppliers, its sub-Suppliers, subcontractors and their affiliates.
+Any Supplier harboring a serious concern that something is not consistent with the Supplier Code of Conduct is strongly encouraged to report the matter proactively to Konecranes. If discussion with senior purchasing management is inappropriate, then the Supplier is welcome to contact the company’s Compliance Office by e- mailing compliance @ konecranes.com.
+See Appendix 1: Supplier Code of Conduct
+4.2 HSEQ Management Systems
+Konecranes calls on Supplier management systems to satisfy ISO 9001 quality-system requirements as a fundamental quality-system standard. Certification by an accredited third-party certification body is highly recommended. Certification of health and safety management system ISO 45001 and environment management system ISO 14001 are also highly recommended.
+While certified management systems are not mandatory with each Supplier, responsibilities for quality, health, safety and environmental aspects must be assigned throughout the company, including top management, and these activities must be an integral part of company management and operations.
+PUBLIC
+Konecranes Global Supplier Manual R002
+9/16
+4.3 Information Security
+Konecranes requires Suppliers to comply with Konecranes Information security policy and recommends using ISO 27001 Information security management system requirements as a fundamental information security standard.
+While certification of the information security management system is recommended, responsibilities for safeguarding confidentiality, integrity and availability of systems, services and data must be assigned throughout the company, including top management; and these activities must be an integral part of company management and operations. Konecranes, or a third party assigned by Konecranes, has the right to audit a Supplier’s data and information security processes.
+The Supplier must implement technical and organizational measures to safeguard Konecranes data, including the Personal Data, from unauthorized, unlawful or accidental access, use, processing, loss, destruction or damage. These requirements are specified in more details in the Konecranes Information Security Requirements Appendix.
+The Supplier and Konecranes are responsible for complying with their respective obligations under the applicable data protection laws governing the Personal Data and other personal data protection-related issues.
+Suppliers are required to report any detected information security event or incident that might have an impact on operations, products and services, Konecranes or its customers, immediately to Konecranes (supplier.cybersecurity @ konecranes.com). In case Konecranes suspects a breach against its systems or operations and has a reason to believe that Supplier information may also be affected, Konecranes will inform the Supplier without delay.
+4.4 Risk Management
+Risk management is an integral part of the Konecranes management system. As Suppliers are a crucial part of the Konecranes supply chain, Konecranes calls on its Suppliers to arrange an appropriate level of risk management infrastructure that enables regular identification and mitigation of operating risks.
+4.4.1 Risk Assessment and Contingency Planning To minimize potential business risks, Konecranes calls on its Suppliers to complete systematic operational risk assessments, which should consider potential risks in the corporate context with an evaluation of impacts and likelihood. Measures deployed to mitigate potential risks, or their impacts, are an outcome of a successful risk assessment.
+Risk assessments should include contingency planning, covering all main functions, production or service processes that are relevant to the business area supplying Konecranes. Planning should include such aspects as alternative production processes, manufacturing locations and suppliers/service providers.
+4.4.2 Insurances All Suppliers are required to maintain adequate insurance coverage for their operating risks, including general and employee liability insurance. The required insurance coverage will depend on the size and scale of the Supplier’s business with Konecranes. All insurance requirements will be specified for Suppliers during the Supplier onboarding process.
+4.5 Process Quality Control
+Suppliers are responsible for understanding the intended use of parts and must ensure that all materials supplied comply with the specifications indicated on manufacturing drawings, on a purchase order or on a purchase agreement, and with any amendments made thereto. A Supplier must understand the most critical
+PUBLIC
+Konecranes Global Supplier Manual R002
+10/16
+characteristics of products, and must have a control plan in place to ensure that all necessary quality requirements for Konecranes products are satisfied before the production run begins. The control plan should be based on the studies of the causes and effects of potential failures in the product or process. Suppliers providing serial production parts are expected to use Statistical Process Controls (SPC).
+Suppliers providing software are required to use secure software development practices, supporting tools and processes.
+Konecranes may require, for example, certificates from time to time validating dimensional measuring results of purchased parts, functional test results, etc. A requirement concerning certificates validating product conformance will be shown on the Purchase Order, or Konecranes may request such certificates separately whenever this is deemed necessary.
+4.6 Nonconformance Management
+4.6.1 Nonconformance Reporting by a Supplier Konecranes encourages Suppliers to adopt a proactive attitude, identifying and preventing potential problems before they arise, and taking remedial measures when specific problems are detected. A Supplier must immediately report any nonconforming or suspect materials or products that may be in transit or already delivered to Konecranes and should inspect all previous and current deliveries if the extent of potentially defective materials is not clear. Communications should be addressed to the recipient Konecranes site and to the Konecranes Supplier Manager.
+4.6.2 Containment of Nonconforming Materials at a Supplier Facility Suppliers must react immediately by containing nonconforming materials and minimizing the impact on Konecranes production. A Supplier must perform 100% off-line inspection of suspect lots before delivery, with defective lots either reworked or scrapped. Records of nonconforming materials and customer notifications must be retained for submission to the recipient Konecranes site on request.
+4.6.3 Nonconforming Materials at Konecranes A Supplier must notify Konecranes of any materials that could be deemed as nonconforming at the recipient Konecranes site. Konecranes will retain the option of requesting assistance from the Supplier for on-site inspection or reworking of nonconforming materials at either the Konecranes or end customer facility, or at both. On finding nonconforming materials at a recipient Konecranes site, 100% third-party containment may be implemented at the Supplier, Konecranes or end-customer site until the root cause and permanent remedial measures have been specified. The Supplier must defray all costs related to on-site inspections or third-party containment, and all costs incurred in return or disposal of its nonconforming materials.
+4.6.4 Claims Addressed to Suppliers A claim (Supplier reclamation) will be addressed to a Supplier whenever a Supplier-caused issue or nonconformance occurs. Suppliers will be notified promptly of any issues requiring a response and are requested to respond to claims within no more than 48 hours.
+A Supplier is standardly required to notify the root cause together with short and long-term remedial measures for each notified claim. An 8D report must be prepared when investigating a claim if the Konecranes contact person so requests. Structured problem-solving techniques (5 x why, fishbone, etc.) are highly recommended.
+The claims addressed to the Suppliers will affect the Supplier’s performance evaluation.
+4.6.5 Chargeback Suppliers will be liable for all costs associated with shipments of nonconforming materials. Both Konecranes and the Supplier will endeavor to settle all disputes amicably.
+PUBLIC
+Konecranes Global Supplier Manual R002
+11/16
+4.6.6 Supplier Deviation Request (SDR) A Supplier may be granted a deviation under certain circumstances. Deviation requests must be addressed to the recipient Konecranes site and to the designated Supplier Manager. Konecranes will evaluate the risks and impact on customer deliveries of using a nonconforming material product before granting approval to the Supplier.
+No materials or products may be shipped until Konecranes has issued written approval. Approved deviations will relate to a specific quantity or material, or will take effect for a certain period specified in the deviation approval. If a deviation and shipment of parts have been approved, then the parts subject to deviation approval must at least be labelled as such on all delivery packages and parcels.
+Off-line reworking will be permitted during a production run if the reworked product satisfies all quality requirements, specifications, applicable standards and guidelines, and is subject to all of the tests that are necessary to ensure that the product is compliant. A reworked part must be comparable in all respects (quality, features) to a non-reworked part.
+4.7 Engineering Change Requests (ECR)
+A Supplier may submit an engineering change request (ECR) to Konecranes whenever this is warranted. ECRs should be issued whenever a Supplier is aware of potential cost savings in a product, process or system (e.g., related to form, shape, dimensions or software), or in the design constraints governing production. ECRs should be e-mailed to DG-Procurement-Service-Center @ konecranes.com. No changes may be implemented before Konecranes has approved them.
+4.8 Change Management by the Supplier
+A Supplier must submit a written change request for approval to the Konecranes Supplier Manager and the recipient site concerning all changes in materials, processes, plant and manufacturing location before these changes are implemented (change of frozen processes). A change request for approval must be submitted at least 6 months in advance. No change request may be deemed approved before the Supplier receives a written confirmation from Konecranes.
+A Supplier request may be approved, declined, or approved subject to conditions. The Supplier may be asked to send materials for product qualification (see section 3.4) before a change is approved.
+A Supplier is also required to notify Konecranes when any change of its company management structure or ownership occurs.
+4.9 Material Traceability
+Konecranes may impose material and product traceability requirements at the beginning of a Supplier relationship and before production ramp-up for direct Suppliers. Suppliers are requested to maintain material and product identification data throughout the lifetime of a product or for the period specified by Konecranes. Suppliers are otherwise expected to maintain individual product identification for crucial parts and sub- components as a means of risk management. Traceability requirements must also govern any sub-Suppliers and subcontractors in the supply chain where applicable.
+Product and material identifiers must be always placed and fastened in a manner that is not easily detached or obscured by wear and tear.
+4.10
+Control of Records and Documentation
+The Supplier must retain and archive all records required by Konecranes (such as production test/measurement results and material certificates) for not less than ten (10) years unless otherwise agreed. All records saved on computers or other electronic storage media must be backed up, and it must be possible to restore files from
+PUBLIC
+Konecranes Global Supplier Manual R002
+12/16
+backups when required. All records must remain legible and a copy of records must be given to Konecranes at Konecranes’ request.
+Classified and other documentation (such as manufacturing drawings and customer-specific data) must be processed in accordance with the Konecranes non-disclosure agreement (NDA).
+4.11
+General Performance Targets
+4.11.1 Purchase Order Handling Konecranes requires a documented order confirmation within 48 hours (two working days) of issuing a written Purchase Order. Deliveries must be completed in accordance with the Purchase Order and order confirmation and will be rated against the approved confirmed delivery date and other agreed terms and conditions of the order confirmation.
+4.11.2 Delivery Punctuality The rating of Supplier punctuality will compare the number of punctual delivery receipts with the total number of receipts within a specified period. A delivery will be deemed unpunctual if it arrives too early or too late. The Konecranes punctuality target is 100% for all Suppliers.
+Konecranes also requires Suppliers to implement punctuality measuring systems of their own for deliveries.
+4.11.3 Processing of Claims Addressed to Suppliers Suppliers must respond to written claims without delay, and by no later than the assigned due response date. The following claim processing targets must apply to Konecranes Suppliers:
+1. Time for responding to a claim with an action plan:
+max. 2 working days
+2. Time for verifying a long-term preventative action plan:
+max. 10 working days
+3. Time for completing a report and Konecranes chargeback:
+max. 30 calendar days
+PUBLIC
+Konecranes Global Supplier Manual R002
+13/16
+APPENDICES
+Appendix 1: Supplier Code of Conduct
+PUBLIC
+Konecranes Global Supplier Manual R002
+14/16
+Internal version control
+Document Owner Approver Approval Date Document ID In Force Status Location Classification Next Review
+Release R001 R002
+Date 1.1.2019 8.3.2021
+PUBLIC
+Document Details
+Supplier Development & Quality Manager Procurement Leadership Team January 2021 ALF006283608 March 2021 Approved www.konecranes.com/Suppliers Public Prior March 2022
+Editor Tuukka Holma Teemu Kölhi
+Changes 1st approved version Reference policy, information security defined, multiple smaller changes
+Konecranes Global Supplier Manual R002
+15/16
+PUBLIC
+Konecranes Global Supplier Manual R002
+16/16
