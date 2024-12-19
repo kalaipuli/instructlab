@@ -266,55 +266,6 @@ counterpart to a Key Account Manager or other individual at the company.
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image4.png){width="6.852777777777778in"
-height="1.1747615923009624in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image5.png){width="5.555555555555555e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image6.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image7.png){width="5.555555555555555e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image8.png){width="4.1666666666666664e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image9.png){width="6.944444444444445e-2in"
-height="9.722222222222222e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image10.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image11.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image12.png){width="6.944444444444445e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image13.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image14.png){width="5.555555555555555e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image15.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image16.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image10.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image11.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image12.png){width="6.944444444444445e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image13.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image14.png){width="5.555555555555555e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image15.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image16.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image17.png){width="5.555555555555555e-2in"
-height="6.944444444444445e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image18.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image19.png){width="6.944444444444445e-2in"
-height="6.944444444444445e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image20.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image21.png){width="5.555555555555555e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image22.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image23.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image24.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image25.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image26.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image27.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image28.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image29.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image30.png){width="4.1666666666666664e-2in"
-height="5.555555555555555e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image31.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image32.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image33.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image34.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image35.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image36.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image37.png){width="2.7777777777777776e-2in"
-height="2.7777777777777776e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image38.png){width="2.7777777777777776e-2in"
-height="2.7777777777777776e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image39.png){width="4.1666666666666664e-2in"
-height="2.7777777777777776e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image40.png){width="2.7777777777777776e-2in"
-height="2.7777777777777776e-2in"}
-
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
-
 **3KONECRANES SUPPLIER BASE MANAGEMENT**
 
 Supplier Base Management covers key activities that arise during a
@@ -360,8 +311,6 @@ Konecranes seeks long-term partnerships with Suppliers that satisfy the
 qualification criteria while remaining cost-conscious and continuously
 striving for operational excellence.
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image3.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}
 
 Figure 1. Key steps of Supplier Onboarding Process.
 
@@ -389,21 +338,6 @@ the Supplier Manager to ensure critical
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image42.png){width="6.6930555555555555in"
-height="0.7986942257217847in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image43.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image44.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image45.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image46.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image47.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image48.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image49.png){width="4.1666666666666664e-2in"
-height="2.7777777777777776e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image50.png){width="2.7777777777777776e-2in"
-height="2.7777777777777776e-2in"}![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image51.png){width="0.6527777777777778in"
-height="0.2638888888888889in"}
-
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
-
 > operating links between the companies (e.g., from R&D, Production and
 > Quality). Konecranes will ask Suppliers at a high segmentation level
 > to appoint an Account Manager and other counterparts for its contact
@@ -419,8 +353,6 @@ height="0.3194444444444444in"}
 > between Konecranes and a Supplier. This process follows on from the
 > new Supplier onboarding process shown in figure 1.
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image41.png){width="4.1666666666666664e-2in"
-height="4.1666666666666664e-2in"}
 
 > Figure 2. Key steps of Supplier Relationship Management process
 >
@@ -486,9 +418,6 @@ requested delivery date).
 |                       | > R002                |                       |
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
-
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
 
 3.2.3.2 Lead-time
 
@@ -574,9 +503,6 @@ height="0.3194444444444444in"}
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
-
 **3.3.1 Background Checking**
 
 Background checking verifies that a Supplier is complying with
@@ -660,8 +586,6 @@ Product approval can be required in the event of:
 >
 > **PUBLIC** Konecranes Global Supplier Manual R002 8/16
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
 
 > •changes of product version, e.g., software/firmware revision
 >
@@ -733,15 +657,6 @@ must be assigned throughout the company, including top management, and
 these activities must be an integral part of company management and
 operations.
 
-+-----------------------+-----------------------+-----------------------+
-| > **PUBLIC**          | > Konecranes Global   | 9/16                  |
-|                       | > Supplier Manual     |                       |
-|                       | > R002                |                       |
-+=======================+=======================+=======================+
-+-----------------------+-----------------------+-----------------------+
-
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
 
 **4.3Information Security**
 
@@ -823,8 +738,6 @@ Supplier must understand the most critical
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
 
 characteristics of products, and must have a control plan in place to
 ensure that all necessary quality requirements for Konecranes products
@@ -909,8 +822,6 @@ to settle all disputes amicably.
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
 
 **4.6.6 Supplier Deviation Request (SDR)**
 
@@ -991,8 +902,6 @@ and it must be possible to restore files from
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
 
 backups when required. All records must remain legible and a copy of
 records must be given to Konecranes at Konecranes' request.
@@ -1049,84 +958,3 @@ days
 +=======================+=======================+=======================+
 +-----------------------+-----------------------+-----------------------+
 
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
-
-**APPENDICES**
-
-**Appendix 1: Supplier Code of Conduct**
-
-+-----------------------+-----------------------+-----------------------+
-| > **PUBLIC**          | > Konecranes Global   | 14/16                 |
-|                       | > Supplier Manual     |                       |
-|                       | > R002                |                       |
-+=======================+=======================+=======================+
-+-----------------------+-----------------------+-----------------------+
-
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
-
-**Internal version control**
-
-+-----------------+-----------------+-----------------+-----------------+
-| **Document      |                 |                 |                 |
-| Details**       |                 |                 |                 |
-+=================+=================+=================+=================+
-| > Document      |                 | > Supplier      |                 |
-| > Owner         |                 | > Development & |                 |
-|                 |                 | > Quality       |                 |
-|                 |                 | > Manager       |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > Approver      |                 | > Procurement   |                 |
-|                 |                 | > Leadership    |                 |
-|                 |                 | > Team          |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > Approval Date |                 | > January 2021  |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > Document ID   |                 | > ALF006283608  |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > In Force      |                 | > March 2021    |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > Status        |                 | > Approved      |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > Location      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| >               |                 | > Public        |                 |
-|  Classification |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > Next Review   |                 | > Prior March   |                 |
-|                 |                 | > 2022          |                 |
-+-----------------+-----------------+-----------------+-----------------+
-|                 |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| > **Release**   | > **Date**      | > **Editor**    | > **Changes**   |
-+-----------------+-----------------+-----------------+-----------------+
-| > R001          | > 1.1.2019      | > Tuukka Holma  | > 1st approved  |
-|                 |                 |                 | > version       |
-+-----------------+-----------------+-----------------+-----------------+
-| > R002          | > 8.3.2021      | > Teemu Kölhi   | > Reference     |
-|                 |                 |                 | > policy,       |
-|                 |                 |                 | > information\  |
-|                 |                 |                 | > security      |
-|                 |                 |                 | > defined,      |
-|                 |                 |                 | > multiple      |
-|                 |                 |                 | > smaller       |
-|                 |                 |                 | > changes       |
-+-----------------+-----------------+-----------------+-----------------+
-
-+-----------------------+-----------------------+-----------------------+
-| > **PUBLIC**          | > Konecranes Global   | 15/16                 |
-|                       | > Supplier Manual     |                       |
-|                       | > R002                |                       |
-+=======================+=======================+=======================+
-+-----------------------+-----------------------+-----------------------+
-
-![](vertopal_a6f4a4090d4e49eb9135fbe03f77af52/media/image2.png){width="2.7083333333333335in"
-height="0.3194444444444444in"}
-
-+-----------------------+-----------------------+-----------------------+
-| **PUBLIC**            | > Konecranes Global   | 16/16                 |
-|                       | > Supplier Manual     |                       |
-|                       | > R002                |                       |
-+=======================+=======================+=======================+
-+-----------------------+-----------------------+-----------------------+
