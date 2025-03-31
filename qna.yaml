@@ -1,0 +1,115 @@
+---
+created_by: kalai
+version: 3
+domain: Konecranes
+seed_examples:
+  - context: "General Performance Targets 4.11.1 Purchase Order Handling Konecranes
+      requires a documented order confirmation within 48 hours (two working
+      days) of issuing a written Purchase Order. Deliveries must be completed in
+      accordance with the Purchase Order and order confirmation and will be
+      rated against the approved confirmed delivery date and other agreed terms
+      and conditions of the order confirmation. 4.11.2 Delivery Punctuality The
+      rating of Supplier punctuality will compare the number of punctual
+      delivery receipts with the total number of receipts within a specified
+      period. A delivery will be deemed unpunctual if it arrives too early or
+      too late. The Konecranes punctuality target is 100% for all
+      Suppliers.  Konecranes also requires Suppliers to implement punctuality
+      measuring systems of their own for deliveries. 4.11.3 Processing of Claims
+      Addressed to Suppliers Suppliers must respond to written claims without
+      delay, and by no later than the assigned due response date. The following
+      claim processing targets must apply to Konecranes Suppliers: 1. Time for
+      responding to a claim with an action plan: max. 2 working days 2. Time for
+      verifying a long-term preventative action plan: max. 10 working days
+      3.  Time for completing a report and Konecranes chargeback: max. 30
+      calendar days"
+    questions_and_answers:
+      - question: "What is the required time frame for Konecranes to receive a documented order confirmation after issuing a Purchase Order?"
+        answer: "Konecranes requires a documented order confirmation within 48 hours (two working days) of issuing a Purchase Order."
+      - question: "How does Konecranes define an unpunctual delivery?"
+        answer: "A delivery is deemed unpunctual if it arrives either too early or too late, according to the agreed delivery schedule."
+      - question: "What is the maximum time allowed for a Supplier to respond to a claim with an action plan?"
+        answer: "The maximum time allowed for a Supplier to respond to a claim with an action plan is 2 working days."
+  - context: "3.3 Supplier Qualification The Supplier qualification process exists
+      to ensure that Suppliers satisfy the minimum requirements of Konecranes,
+      and to gain an overview of Supplier operations and capacities. Supplier
+      qualification involves three main sub-processes: i Background checking,
+      On-site auditing and Supplier Code of Conduct auditing. These sub-
+      processes operate at the Supplier onboarding stage, and either wholly or
+      in certain respects during an ongoing business relationship. All Suppliers
+      may be subject to background checks and audits, even when frequent
+      business review meetings are held, and business is conducted with
+      Konecranes on a daily basis. A new Supplier that fails any part of the
+      qualification process will not be approved as a Konecranes Supplier. An
+      established Supplier that fails the qualification process may be
+      disqualified or phased out. 3.3.1 Background Checking Background checking
+      verifies that a Supplier is complying with applicable laws and regulations
+      and has the insurance coverage required by Konecranes. Background checks
+      also provide general information on a Suppliers operations. Background
+      checking is part of new Supplier onboarding and may be requested from
+      existing Suppliers at any time during the business relationship."
+    questions_and_answers:
+      - question: "What are the main sub-processes involved in the Supplier qualification process at Konecranes?"
+        answer: "The main sub-processes involved in Supplier qualification are Background checking, On-site auditing, and Supplier Code of Conduct auditing."
+      - question: "Can an existing Supplier be subject to background checks and audits?"
+        answer: "Yes, existing Suppliers may be subject to background checks and audits at any time during the business relationship with Konecranes."
+      - question: "What happens if a new Supplier fails any part of the qualification process?"
+        answer: "A new Supplier that fails any part of the qualification process will not be approved as a Konecranes Supplier."
+  - context: "3 KONECRANES SUPPLIER BASE MANAGEMENT Supplier Base Management covers
+      key activities that arise during a Suppliers business relationship with
+      Konecranes, and is strongly linked to the companys global product, service
+      and delivery processes. Co-operation with a Supplier may begin with early
+      involvement in common product or solution R&D projects, continuing through
+      repeated deliveries of spare parts for Konecranes operations. Konecranes
+      Supplier Base Management covers the following main areas: New Supplier
+      Onboarding, Supplier Relationship Management, Supplier Qualification and
+      Product Qualification. 3.1 New Supplier Onboarding A new Konecranes
+      Supplier will be a company that has not conducted business with Konecranes
+      over the preceding 3 years. All new Suppliers must be qualified before
+      commencing any business with Konecranes. This qualification requires
+      Suppliers and subcontractors to satisfy the following main
+      characteristics: Compliance with the Konecranes Supplier Code of Conduct"
+    questions_and_answers:
+      - question: "What is the purpose of Konecranes Supplier Base Management?"
+        answer: "Konecranes Supplier Base Management covers key activities throughout the business relationship with Suppliers, from early involvement in product or solution R&D projects to repeated deliveries of spare parts, ensuring effective integration into global product, service, and delivery processes."
+      - question: "What defines a 'new' Supplier for Konecranes?"
+        answer: "A 'new' Supplier for Konecranes is a company that has not conducted business with Konecranes in the preceding 3 years."
+      - question: "What is required for a new Supplier to begin doing business with Konecranes?"
+        answer: "A new Supplier must be qualified before commencing any business with Konecranes, including meeting the compliance requirements of the Konecranes Supplier Code of Conduct."
+  - context: During the first year after its introduction, and then at least once
+      every two years  If required, in case of changes in technological or
+      compliance environment or as a result of corrective actions to eliminate
+      any weaknesses or non-conformities. 1.6 Approval and Maintenance This
+      manual is approved by the Procurement Leadership Team. The Supplier
+      Development & Quality Manager is the owner of Konecranes Global Supplier
+      Manual and responsible for maintaining this manual and monitoring its
+      implementation.
+    questions_and_answers:
+      - question: "How often should the Konecranes Global Supplier Manual be reviewed?"
+        answer: "The Konecranes Global Supplier Manual should be reviewed during the first year after its introduction, and then at least once every two years. Additional reviews may occur if there are changes in the technological or compliance environment or as a result of corrective actions."
+      - question: "Who is responsible for maintaining the Konecranes Global Supplier Manual?"
+        answer: "The Supplier Development & Quality Manager is responsible for maintaining the Konecranes Global Supplier Manual and monitoring its implementation."
+      - question: "Who approves the Konecranes Global Supplier Manual?"
+        answer: "The Konecranes Global Supplier Manual is approved by the Procurement Leadership Team."
+  - context: "Suppliers are responsible for understanding the intended use of parts and must ensure that all materials
+      supplied comply with the specifications indicated on manufacturing drawings, on a purchase order or on a
+      purchase agreement, and with any amendments made thereto. A Supplier must understand the most critical characteristics of products, and must have a control plan in place to ensure that all necessary quality
+      requirements for Konecranes products are satisfied before the production run begins. The control plan should
+      be based on the studies of the causes and effects of potential failures in the product or process. Suppliers
+      providing serial production parts are expected to use Statistical Process Controls (SPC). Suppliers providing software are required to use secure software development practices, supporting tools and
+      processes. Konecranes may require, for example, certificates from time to time validating dimensional measuring results
+      of purchased parts, functional test results, etc. A requirement concerning certificates validating product
+      conformance will be shown on the Purchase Order, or Konecranes may request such certificates separately
+      whenever this is deemed necessary."
+    questions_and_answers:
+      - question: "What responsibility do Suppliers have regarding the materials they supply to Konecranes?"
+        answer: "Suppliers are responsible for ensuring that all materials supplied comply with the specifications indicated on manufacturing drawings, purchase orders, or purchase agreements, including any amendments made thereto."
+      - question: "What is required from Suppliers to ensure quality before production begins?"
+        answer: "Suppliers must have a control plan in place to ensure that all necessary quality requirements are met before production begins. The plan should be based on studies of potential failures in the product or process."
+      - question: "Are Suppliers required to use Statistical Process Controls (SPC)?"
+        answer: "Yes, Suppliers providing serial production parts are expected to use Statistical Process Controls (SPC) to ensure consistent quality."
+document_outline: Global supplier manual of konecranes and it outlines important\ steps involved in onboarding new suppliers
+document:
+  repo: https://github.com/kalaipuli/instructlab
+  commit: 49c0be47c1f1b5798b3b3041250ef84eb8078c1b
+  patterns:
+    - kc-manual2.md
