@@ -218,14 +218,14 @@ seed_examples:
       > these requirements more closely at the start of the business
       > relationship."
     questions_and_answers:
-    - question: "What is the basis of the business relationship between Konecranes and its suppliers?"
-      answer: "The business relationship is based on mutual respect for written agreements and the specified requirements of individual orders. It also involves appraising, maintaining, and continually improving the relationship, potentially evolving into strategic co-operation and joint planning of future business areas."
+      - question: "What is the basis of the business relationship between Konecranes and its suppliers?"
+        answer: "The business relationship is based on mutual respect for written agreements and the specified requirements of individual orders. It also involves appraising, maintaining, and continually improving the relationship, potentially evolving into strategic co-operation and joint planning of future business areas."
 
-    - question: "How does Konecranes categorize and manage its suppliers?"
-      answer: "Konecranes categorizes and segments onboarded suppliers internally. Based on the segmentation level, Konecranes may nominate a Supplier Manager to oversee the business relationship. Additional support may come from various departments like R&D, Production, and Quality. Suppliers at high segmentation levels are required to appoint an Account Manager and other counterparts."
+      - question: "How does Konecranes categorize and manage its suppliers?"
+        answer: "Konecranes categorizes and segments onboarded suppliers internally. Based on the segmentation level, Konecranes may nominate a Supplier Manager to oversee the business relationship. Additional support may come from various departments like R&D, Production, and Quality. Suppliers at high segmentation levels are required to appoint an Account Manager and other counterparts."
 
-    - question: "What is expected of suppliers in terms of purchasing and material management?"
-      answer: "Suppliers are expected to engage in both direct and indirect purchasing as per Konecranes' requirements, with all purchases being documented in a written form (Purchase Order). Suppliers should also be capable of using Konecranes e-procurement tools to support business operations. Uniform pricing and other terms apply globally across all Konecranes units."
+      - question: "What is expected of suppliers in terms of purchasing and material management?"
+        answer: "Suppliers are expected to engage in both direct and indirect purchasing as per Konecranes' requirements, with all purchases being documented in a written form (Purchase Order). Suppliers should also be capable of using Konecranes e-procurement tools to support business operations. Uniform pricing and other terms apply globally across all Konecranes units."
 
   - context: "**3.2.3 Ongoing Performance Evaluation**
       >
@@ -284,16 +284,16 @@ seed_examples:
       > specification is not satisfied. Konecranes expects Suppliers to
       > respond to each claim promptly, and as requested in any such claim."
     questions_and_answers:
-    - question: "What is Konecranes' approach to performance evaluation of suppliers?"
-      answer: "Konecranes strives for continuous improvement of overall business performance, monitoring suppliers' cost, quality, and delivery times. Performance is evaluated using key and process performance indicators, and the results influence the supplier's segmentation level."
+      - question: "What is Konecranes' approach to performance evaluation of suppliers?"
+        answer: "Konecranes strives for continuous improvement of overall business performance, monitoring suppliers' cost, quality, and delivery times. Performance is evaluated using key and process performance indicators, and the results influence the supplier's segmentation level."
 
-    - question: "How does Konecranes assess the availability and punctuality of deliveries?"
-      answer: "Konecranes expects deliveries to arrive in the correct quantity and on the specified delivery date. Punctuality is assessed by comparing the agreed delivery date with the actual receipt date. Deliveries that are early or late, or that arrive with faults, may result in claims or further demands from Konecranes."
+      - question: "How does Konecranes assess the availability and punctuality of deliveries?"
+        answer: "Konecranes expects deliveries to arrive in the correct quantity and on the specified delivery date. Punctuality is assessed by comparing the agreed delivery date with the actual receipt date. Deliveries that are early or late, or that arrive with faults, may result in claims or further demands from Konecranes."
 
-    - question: "What does Konecranes expect from suppliers in terms of lead-time and quality?"
-      answer: "Konecranes focuses on reducing lead-time to improve delivery and throughput, setting targeted lead-times based on product category and supplier capacity. Suppliers are also expected to meet quality requirements and product specifications for each delivery, and must promptly respond to any claims regarding non-compliance."
+      - question: "What does Konecranes expect from suppliers in terms of lead-time and quality?"
+        answer: "Konecranes focuses on reducing lead-time to improve delivery and throughput, setting targeted lead-times based on product category and supplier capacity. Suppliers are also expected to meet quality requirements and product specifications for each delivery, and must promptly respond to any claims regarding non-compliance."
 
-  - context:  "3.2.1.2 Information Security
+  - context: "3.2.1.2 Information Security
 
       > Suppliers are expected to satisfy all Konecranes information security
       > requirements protecting Konecranes information assets. Suppliers are
@@ -327,14 +327,14 @@ seed_examples:
       > out, if the common interest or business case for a development project
       > is inadequate, or if underperformance continues."
     questions_and_answers:
-    - question: "What are the information security requirements for suppliers working with Konecranes?"
-      answer: "Suppliers are expected to meet all of Konecranes' information security requirements to protect the company's information assets. Any shortcomings in meeting these requirements must be reported to Konecranes without delay."
+      - question: "What are the information security requirements for suppliers working with Konecranes?"
+        answer: "Suppliers are expected to meet all of Konecranes' information security requirements to protect the company's information assets. Any shortcomings in meeting these requirements must be reported to Konecranes without delay."
 
-    - question: "How does Konecranes expect suppliers to manage costs?"
-      answer: "Konecranes expects suppliers to focus on reducing unnecessary operating costs and optimizing the cost structure of their products and services. Konecranes also seeks transparency in cost structures to improve co-operation and overall performance."
+      - question: "How does Konecranes expect suppliers to manage costs?"
+        answer: "Konecranes expects suppliers to focus on reducing unnecessary operating costs and optimizing the cost structure of their products and services. Konecranes also seeks transparency in cost structures to improve co-operation and overall performance."
 
-    - question: "What happens if a supplier underperforms according to Konecranes' evaluation?"
-      answer: "Underperforming suppliers are evaluated and ranked based on performance data. They may face more frequent business review meetings and performance-monitoring measures. If underperformance continues, Konecranes may launch a joint development project with the supplier to address issues, or the supplier may be disqualified or phased out if the business case is inadequate or underperformance persists."
+      - question: "What happens if a supplier underperforms according to Konecranes' evaluation?"
+        answer: "Underperforming suppliers are evaluated and ranked based on performance data. They may face more frequent business review meetings and performance-monitoring measures. If underperformance continues, Konecranes may launch a joint development project with the supplier to address issues, or the supplier may be disqualified or phased out if the business case is inadequate or underperformance persists."
 
   - context: "**3.3Supplier Qualification**
       >
@@ -370,8 +370,6 @@ seed_examples:
 
       - question: "What does the background checking process involve for suppliers?"
         answer: "Background checking verifies that the supplier complies with applicable laws and regulations and holds the required insurance coverage. It also provides general information about the supplier's operations. Background checks are part of the new supplier onboarding process and can be requested from existing suppliers at any time."
-
-
 
   - context: "**3.3.2 Auditing**
 
@@ -426,14 +424,14 @@ seed_examples:
 
       See Chapter 4.1 Sustainability -- Supplier Code of Conduct."
     questions_and_answers:
-    - question: "What does the on-site audit process involve for suppliers?"
-      answer: "On-site audits review and validate a supplier's management systems, quality assurance methods, and process capacities. The audit evaluates the supplier against predefined Konecranes requirements, and remedial measures are required if the supplier fails to meet the requirements. Suppliers are notified in writing of the audit outcome, audit score, and necessary measures."
+      - question: "What does the on-site audit process involve for suppliers?"
+        answer: "On-site audits review and validate a supplier's management systems, quality assurance methods, and process capacities. The audit evaluates the supplier against predefined Konecranes requirements, and remedial measures are required if the supplier fails to meet the requirements. Suppliers are notified in writing of the audit outcome, audit score, and necessary measures."
 
-    - question: "When are suppliers selected for on-site auditing by Konecranes?"
-      answer: "New suppliers are selected for auditing based on background checks, country, industry, relevant risks, and other factors critical to Konecranes. Established suppliers are audited according to the annual auditing program, with factors like underperformance, risk profiles, and business opportunities influencing the need for periodic audits."
+      - question: "When are suppliers selected for on-site auditing by Konecranes?"
+        answer: "New suppliers are selected for auditing based on background checks, country, industry, relevant risks, and other factors critical to Konecranes. Established suppliers are audited according to the annual auditing program, with factors like underperformance, risk profiles, and business opportunities influencing the need for periodic audits."
 
-    - question: "What additional assessments might Konecranes perform on suppliers, and when are they conducted?"
-      answer: "In addition to on-site audits, Konecranes may conduct IT-system security assessments, application security assessments, penetration testing, or vulnerability analysis on supplier services or products. These assessments are based on service type and risk level and can be performed whenever deemed necessary by Konecranes."
+      - question: "What additional assessments might Konecranes perform on suppliers, and when are they conducted?"
+        answer: "In addition to on-site audits, Konecranes may conduct IT-system security assessments, application security assessments, penetration testing, or vulnerability analysis on supplier services or products. These assessments are based on service type and risk level and can be performed whenever deemed necessary by Konecranes."
 
   - context: "**3.4Product Qualification**
       The Konecranes product qualification process governs Suppliers
@@ -523,7 +521,8 @@ seed_examples:
 
       - question: "What are Konecranes' expectations regarding ethical and sustainable practices from its suppliers?"
         answer: "Konecranes expects its suppliers to comply with the same high legal, ethical, environmental, and employee-related standards that Konecranes upholds internally. This includes adherence to the principles outlined in the Konecranes Code of Conduct, promoting responsible business practices and sustainability in all aspects of operations."
-  - context:  "4.2HSEQ Management Systems
+
+  - context: "4.2HSEQ Management Systems
       Konecranes calls on Supplier management systems to satisfy ISO 9001
       quality-system requirements as a fundamental quality-system standard.
       Certification by an accredited third-party certification body is highly
@@ -684,7 +683,7 @@ seed_examples:
 
       The claims addressed to the Suppliers will affect the Supplier's
       performance evaluation."
-    questions_and_answers:  
+    questions_and_answers:
       - question: "What should suppliers do if they identify nonconforming or suspect materials?"
         answer: "Suppliers must immediately report any nonconforming or suspect materials to the recipient Konecranes site and the Konecranes Supplier Manager. If the extent of potentially defective materials is unclear, the supplier should inspect all previous and current deliveries."
 
@@ -694,7 +693,7 @@ seed_examples:
       - question: "What is the supplier's responsibility when claims are addressed to them?"
         answer: "Suppliers must respond to claims within 48 hours, providing the root cause and short and long-term remedial measures. If requested, an 8D report must be prepared. Claims may affect the Supplier's performance evaluation, and structured problem-solving techniques like 5x why or fishbone are recommended for investigating the claim."
 
-  - context:  "**4.6.5 Chargeback**
+  - context: "**4.6.5 Chargeback**
       Suppliers will be liable for all costs associated with shipments of
       nonconforming materials. Both Konecranes and the Supplier will endeavor
       to settle all disputes amicably.
@@ -719,7 +718,7 @@ seed_examples:
       that are necessary to ensure that the product is compliant. A reworked
       part must be comparable in all respects (quality, features) to a
       non-reworked part."
-    questions_and_answers:  
+    questions_and_answers:
       - question: "What costs are suppliers liable for in case of nonconforming materials?"
         answer: "Suppliers are liable for all costs associated with shipments of nonconforming materials. Both Konecranes and the Supplier will work to settle any disputes amicably."
 
@@ -781,15 +780,15 @@ seed_examples:
       Classified and other documentation (such as manufacturing drawings and
       customer-specific data) must be processed in accordance with the
       Konecranes non-disclosure agreement (NDA)."
-    questions_and_answers:  
-    - question: "When should a Supplier submit an Engineering Change Request (ECR) to Konecranes?"
-      answer: "A Supplier should submit an ECR whenever they are aware of potential cost savings in a product, process, or system, such as related to form, shape, dimensions, software, or production constraints. The ECR should be emailed to the Konecranes Procurement Service Center, and no changes can be implemented before Konecranes' approval."
+    questions_and_answers:
+      - question: "When should a Supplier submit an Engineering Change Request (ECR) to Konecranes?"
+        answer: "A Supplier should submit an ECR whenever they are aware of potential cost savings in a product, process, or system, such as related to form, shape, dimensions, software, or production constraints. The ECR should be emailed to the Konecranes Procurement Service Center, and no changes can be implemented before Konecranes' approval."
 
-    - question: "What is the Supplier's responsibility when implementing changes in materials or processes?"
-      answer: "The Supplier must submit a written change request to the Konecranes Supplier Manager and recipient site at least 6 months in advance for approval before implementing any changes. Changes are not deemed approved until Konecranes provides written confirmation."
+      - question: "What is the Supplier's responsibility when implementing changes in materials or processes?"
+        answer: "The Supplier must submit a written change request to the Konecranes Supplier Manager and recipient site at least 6 months in advance for approval before implementing any changes. Changes are not deemed approved until Konecranes provides written confirmation."
 
-    - question: "What are the requirements for material traceability?"
-      answer: "Konecranes may impose traceability requirements at the beginning of a Supplier relationship and before production ramp-up. Suppliers must maintain material and product identification data throughout the product's lifetime or as specified by Konecranes, and these requirements extend to sub-Suppliers and subcontractors."
+      - question: "What are the requirements for material traceability?"
+        answer: "Konecranes may impose traceability requirements at the beginning of a Supplier relationship and before production ramp-up. Suppliers must maintain material and product identification data throughout the product's lifetime or as specified by Konecranes, and these requirements extend to sub-Suppliers and subcontractors."
 
   - context: "**4.11 General Performance Targets**
       **4.11.1 Purchase Order Handling**
@@ -828,15 +827,15 @@ seed_examples:
       >
       > 3 Time for completing a report and Konecranes chargeback: max. 30
       > calendar days"
-    questions_and_answers:  
-    - question: "What is the deadline for a Supplier to confirm a Purchase Order issued by Konecranes?"
-      answer: "A Supplier must provide a documented order confirmation within 48 hours (two working days) of receiving a written Purchase Order from Konecranes."
+    questions_and_answers:
+      - question: "What is the deadline for a Supplier to confirm a Purchase Order issued by Konecranes?"
+        answer: "A Supplier must provide a documented order confirmation within 48 hours (two working days) of receiving a written Purchase Order from Konecranes."
 
-    - question: "What is Konecranes' target for Supplier delivery punctuality?"
-      answer: "Konecranes' target for Supplier delivery punctuality is 100%, meaning all deliveries must be on time. Suppliers must also implement their own punctuality measuring systems."
+      - question: "What is Konecranes' target for Supplier delivery punctuality?"
+        answer: "Konecranes' target for Supplier delivery punctuality is 100%, meaning all deliveries must be on time. Suppliers must also implement their own punctuality measuring systems."
 
-    - question: "What are the required timeframes for processing claims addressed to Suppliers?"
-      answer: "Suppliers must respond to claims with an action plan within 2 working days, verify a long-term preventative action plan within 10 working days, and complete a report and Konecranes chargeback within 30 calendar days."
+      - question: "What are the required timeframes for processing claims addressed to Suppliers?"
+        answer: "Suppliers must respond to claims with an action plan within 2 working days, verify a long-term preventative action plan within 10 working days, and complete a report and Konecranes chargeback within 30 calendar days."
 
 document_outline: Global supplier manual of konecranes and it outlines important\ steps involved in onboarding new suppliers
 document:
